@@ -1,5 +1,7 @@
 # BloodFX
 BoodFX contains the particle system and decal for simulating the blood splatting. This effect can be used on a gunshot like killing a giant animal or alien.
+
+![Video Demo](https://youtu.be/PiDXATdsFC8?si=lxMxCOa32LAKq813)
 ## Requirements:
 -	Unity 2021.3.18 and above
 -	URP
