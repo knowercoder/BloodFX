@@ -47,7 +47,7 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _DarkMaskStartSize: 4
+    - _DarkMaskStartSize: 1.4986209
     - _DarkNoiseScale: 40
     - _DarkStepMax: 0.27
     - _DarkStepMin: 0.153
@@ -57,7 +57,7 @@ Material:
     - _DrawOrder: 0
     - _ENABLEEMISSION: 0
     - _LessBloodSpots: 0
-    - _LightMaskStartSize: 4
+    - _LightMaskStartSize: 1.4986209
     - _LightNoiseScale: 40
     - _LightStepMax: 0.35
     - _LightStepMin: 0.2
