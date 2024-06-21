@@ -16,7 +16,7 @@ Just play the scene and click the ‘Shoot’ button on the top right corner. Th
 
 
 ## Particle System Effects:
-There are three particle system effects included in the package:
+There are three particle system effects included in the asset:
 1.	BloodSplat
 2.	BloodSparks
 3.	BloodSmoke
